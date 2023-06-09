@@ -4,7 +4,12 @@ import Products from "./Products";
 
 function App() {
   return (
-    <>
+    <div
+      style={{
+        maxWidth: "1440px",
+        margin: "0 auto",
+      }}
+    >
       <Hero />
       <br />
       <br />
@@ -50,7 +55,7 @@ function App() {
       <br />
       <br />
       <br />
-    </>
+    </div>
   );
 }
 
