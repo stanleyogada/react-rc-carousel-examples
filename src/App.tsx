@@ -5,7 +5,6 @@ import Products from "./Products";
 function App() {
   return (
     <>
-      jshkjashdkja
       <Hero />
       <br />
       <br />

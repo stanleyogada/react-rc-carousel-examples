@@ -1,6 +1,5 @@
 import { CSSProperties } from "react";
-
-import { Slider } from "react-rc-carousel";
+import Slider from "react-rc-carousel";
 
 const Hero = () => {
   const heroStyle: CSSProperties = {
